@@ -1,9 +1,9 @@
-group 'net.cattaka'
-version '0.1-SNAPSHOT'
+group CDB_GROUP
+version CDB_VERSION
 
 apply plugin: 'java'
 
-sourceCompatibility = 1.5
+sourceCompatibility = SOURCE_COMPATIBILITY
 
 repositories {
     mavenCentral()
